@@ -3,7 +3,7 @@
 "Correlating with Stock Price Analysis for Investment Opportunities"
 '''
 
-#pip install GoogleNews first
+# "pip install GoogleNews" first
 
 from GoogleNews import GoogleNews
 
