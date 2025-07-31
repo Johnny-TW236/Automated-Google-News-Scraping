@@ -1,2 +1,2 @@
-# Automated-Google-News-Scraping
-【Google News】Automated Google News Scraping with Python
+# Install Python packages: 
+  pip install GoogleNews
