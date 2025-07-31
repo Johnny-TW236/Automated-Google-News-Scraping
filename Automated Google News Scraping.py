@@ -1,6 +1,8 @@
 '''
+
 【Google News】Automated Google News Scraping with Python: 
 "Correlating with Stock Price Analysis for Investment Opportunities"
+
 '''
 
 # "pip install GoogleNews" first
